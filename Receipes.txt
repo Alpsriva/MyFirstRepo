@@ -5,6 +5,8 @@ Welcome to Alpana Kitchen
 Kheer
 Pasta
 Chick Pees
+Beans 
+Pizza
 
 
 
@@ -14,4 +16,8 @@ Chick Pees
 
 Thank you ! :-)
 
+
+Done my changes
+
 Final Copy
+
